@@ -1,0 +1,8 @@
+.bsp
+.bloop
+.idea
+.metals
+project/*
+!project/build.properties
+target
+
