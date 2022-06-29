@@ -1,5 +1,11 @@
 # Boolean Expressions
 
+Toy Scala program that takes in a JSON representation of boolean expression, parses it,
+prints diagnostics on stderr (either the parsing error or the succesfully parsed expression)
+and outputs to stdout the reserialized JSON.
+
+Will eventually have more manipulations applied to it.
+
 ## Warmup
 
 A recursive function satisfying:
