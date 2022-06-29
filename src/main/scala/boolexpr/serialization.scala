@@ -4,7 +4,7 @@ import io.circe.Error
 import io.circe.syntax.EncoderOps
 import io.circe.parser.parse
 
-import boolexpr.codec._
+import boolexpr.Codec._
 
 
 /**
